@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div className='flex items-center justify-between py-6'>
             <div className="flex flex-shrink-0 items-center">
-                <a href="/" aria-label='Home'>
+                <a href="/portfolio" aria-label='Home'>
                     <img src={logo} alt="imagen-logo" className='mx-2' width={50} height={33} />
                 </a>
             </div>
