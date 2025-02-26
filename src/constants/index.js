@@ -17,7 +17,7 @@ export const EXPERIENCES = [
     year: "2022",
     role: "Desarrollador Web",
     company: "Lealtad 360",
-    description: `Creación de paginas y aplicaciones web conPHP/Laravel como backend y JQuery como frontend.`,
+    description: `Creación de paginas y aplicaciones web principalmente con PHP/Laravel en el backend y JQuery con Bootstrap en el frontend.`,
     technologies: ["HTML", "CSS", "JavaScript", "JQuery", "Bootstrap", "Ajax"],
   }
 ];
